@@ -1,0 +1,33 @@
+@media all and (max-width: 2560px) {
+  .btn {
+    left: 0;
+    bottom: 0;
+  }
+  .container {
+    margin-left: 34%;
+  }
+  .child__right {
+    margin-left: 56%;
+  }
+  .tipa__button {
+    margin-left: 28%;
+  }
+}
+@media all and (max-width: 1440px) {
+  .child__right {
+    margin-left: 28%;
+  }
+  .tipa__button {
+    margin-left: 10%;
+  }
+  .container {
+    margin-left: auto;
+  }
+  .container2 {
+    margin-left: 22%;
+  }
+  .btn {
+    left: 477px;
+    bottom: 52px;
+  }
+}
